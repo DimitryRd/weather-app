@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.13.1",
     "request": "^2.87.0",
+    "temperature": "^1.0.3",
     "yargs": "^4.8.1"
   }
 }
